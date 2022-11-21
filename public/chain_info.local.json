@@ -1,8 +1,8 @@
 {
   "chainId": "joe-1",
   "chainName": "Just Joe",
-  "rpc": "http://localhost:26657/",
-  "rest": "http://localhost:1317/",
+  "rpc": "https://rpc.justjoe.app/",
+  "rest": "https://rest.justjoe.app/",
   "stakeCurrency": {
     "coinDenom": "JOE",
     "coinMinimalDenom": "ujoe",
@@ -38,7 +38,7 @@
   ],
   "coinType": 118,
   "gasPriceStep": {
-    "low": 0.00,
+    "low": 0.0,
     "average": 0.0,
     "high": 0.01
   },
