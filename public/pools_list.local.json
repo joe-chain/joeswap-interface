@@ -50,32 +50,9 @@
           "denom": "ujuno"
         }
       ],
-      "swap_address": "juno18v47nqmhvejx3vc498pantg8vr435xa0rt6x0m6kzhp6yuqmcp8supzmcp",
-      "staking_address": "juno1jkte0pytr85qg0whmgux3vmz9ehmh82w40h8gaqeg435fnkyfxqqau5rja",
-      "rewards_tokens": [
-        {
-          "rewards_address": "juno1dan30fymgvrknydd7gkrpyuh5sdcnqejy7sl20sfslscptn50clqsn05uj",
-          "token_address": "",
-          "swap_address": "",
-          "symbol": "JOE",
-          "name": "Joe",
-          "logoURI": "https://ipfs.stargaze.zone/ipfs/bafybeihn5yu27ehbqfcgilhwgo2luizymixabawn4zyjwrdocky557yvni/keX-ah0-.jpg",
-          "native": true,
-          "denom": "ujoe",
-          "decimals": 6
-        },
-        {
-          "rewards_address": "juno1xut80d09q0tgtch8p0z4k5f88d3uvt8cvtzm5h3tu3tsy4jk9xls377nhn",
-          "token_address": "juno14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9skjuwg8",
-          "swap_address": "juno1nc5tatafv6eyq7llkr2gv50ff9e22mnf70qgjlv737ktmt4eswrq68ev2p",
-          "symbol": "CRAB",
-          "name": "Crab",
-          "logoURI": "https://cryptologos.cc/logos/irisnet-iris-logo.svg?v=022",
-          "native": false,
-          "denom": "ucrab",
-          "decimals": 6
-        }
-      ]
+      "swap_address": "joe1jn8qmdda5m6f6fqu9qv46rt7ajhklg40ukpqchkejcvy8x7w26cqldfzv8",
+      "staking_address": "",
+      "rewards_tokens": []
     }
   ],
   "version": {
