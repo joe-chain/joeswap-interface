@@ -1,17 +1,17 @@
 {
   "tokens": [
     {
-      "id": "cosmos",
-      "name": "Atom",
-      "symbol": "ATOM",
-      "chain_id": "cosmoshub-4",
-      "rpc": "https://cosmoshub.validator.network:443",
-      "denom": "uatom",
+      "id": "stargaze",
+      "name": "Stargaze",
+      "symbol": "STARS",
+      "chain_id": "stargaze-1",
+      "rpc": "https://rpc.stargaze-apis.com:443",
+      "denom": "IBC_HASH",
       "decimals": 6,
-      "channel": "channel-207",
-      "juno_channel": "channel-1",
-      "juno_denom": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
-      "logoURI": "https://cryptologos.cc/logos/cosmos-atom-logo.svg?v=014"
+      "channel": "channel-5",
+      "juno_channel": "channel-199",
+      "juno_denom": "ustars?ordenom",
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png"
     }
   ]
 }

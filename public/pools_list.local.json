@@ -45,9 +45,9 @@
           "name": "Juno",
           "decimals": 6,
           "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.png",
-          "tags": ["native"],
+          "tags": ["juno"],
           "native": true,
-          "denom": "ujuno"
+          "denom": "ibc/9E3EB38E5E157AEBFF4A8EAC66E654BC8ECFCB1F758F4D1C0F2D65945E9E2935"
         }
       ],
       "swap_address": "joe1jn8qmdda5m6f6fqu9qv46rt7ajhklg40ukpqchkejcvy8x7w26cqldfzv8",
