@@ -1,51 +1,46 @@
 {
-  "chainId": "testing",
-  "chainName": "Juno Local",
+  "chainId": "joe-1",
+  "chainName": "Just Joe",
   "rpc": "http://localhost:26657/",
   "rest": "http://localhost:1317/",
   "stakeCurrency": {
-    "coinDenom": "JUNO",
-    "coinMinimalDenom": "ujuno",
+    "coinDenom": "JOE",
+    "coinMinimalDenom": "ujoe",
     "coinDecimals": 6,
-    "coinGeckoId": "juno-network"
+    "coinGeckoId": "ethereum"
   },
   "bip44": {
     "coinType": 118
   },
   "bech32Config": {
-    "bech32PrefixAccAddr": "juno",
-    "bech32PrefixAccPub": "junopub",
-    "bech32PrefixValAddr": "junovaloper",
-    "bech32PrefixValPub": "junovaloperpub",
-    "bech32PrefixConsAddr": "junovalcons",
-    "bech32PrefixConsPub": "junovalconspub"
+    "bech32PrefixAccAddr": "joe",
+    "bech32PrefixAccPub": "joepub",
+    "bech32PrefixValAddr": "joevaloper",
+    "bech32PrefixValPub": "joevaloperpub",
+    "bech32PrefixConsAddr": "joevalcons",
+    "bech32PrefixConsPub": "joevalconspub"
   },
   "currencies": [
     {
-      "coinDenom": "JUNO",
-      "coinMinimalDenom": "ujuno",
+      "coinDenom": "JOE",
+      "coinMinimalDenom": "ujoe",
       "coinDecimals": 6,
-      "coinGeckoId": "juno-network"
-    },
-    {
-      "coinDenom": "COSM",
-      "coinMinimalDenom": "ucosm",
-      "coinDecimals": 6
+      "coinGeckoId": "ethereum"
     }
   ],
   "feeCurrencies": [
     {
-      "coinDenom": "JUNO",
-      "coinMinimalDenom": "ujuno",
+      "coinDenom": "JOE",
+      "coinMinimalDenom": "ujoe",
       "coinDecimals": 6,
-      "coinGeckoId": "juno-network"
+      "coinGeckoId": "ethereum"
     }
   ],
   "coinType": 118,
   "gasPriceStep": {
-    "low": 0.025,
-    "average": 0.05,
-    "high": 0.1
+    "low": 0.00,
+    "average": 0.0,
+    "high": 0.01
   },
   "features": ["cosmwasm"]
 }
