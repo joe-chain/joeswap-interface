@@ -23,36 +23,38 @@
   "timestamp": "2022-10-12T00:00:00+00:00",
   "pools": [
     {
-      "pool_id": "JOE-JUNO",
+      "pool_id": "JOE-STARS",
       "pool_assets": [        
         {
-          "id": "",
+          "id": "ethereum",
           "chain_id": "joe-1",
           "token_address": "",
           "symbol": "JOE",
           "name": "Joe",
           "decimals": 6,
           "logoURI": "https://ipfs.stargaze.zone/ipfs/bafybeihn5yu27ehbqfcgilhwgo2luizymixabawn4zyjwrdocky557yvni/keX-ah0-.jpg",
-          "tags": ["joecoin"],
+          "tags": ["native"],
           "native": true,
           "denom": "ujoe"
         },
         {
-          "id": "juno-network",
-          "chain_id": "juno-1",
+          "id": "stargaze",
+          "chain_id": "stargaze-1",
           "token_address": "",
-          "symbol": "JUNO",
-          "name": "Juno",
+          "symbol": "STARGAZE",
+          "name": "Stargaze",
           "decimals": 6,
-          "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.png",
-          "tags": ["juno"],
+          "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png",
+          "tags": ["native"],
           "native": true,
-          "denom": "ibc/9E3EB38E5E157AEBFF4A8EAC66E654BC8ECFCB1F758F4D1C0F2D65945E9E2935"
+          "denom": "ibc/8968C04A87BA43FB662C51D4088D693CF44761EF8D1BD953526BDFFD48BD9005"
         }
       ],
-      "swap_address": "joe1jn8qmdda5m6f6fqu9qv46rt7ajhklg40ukpqchkejcvy8x7w26cqldfzv8",
+      "swap_address": "joe1zlwdkv49rmsug0pnwu6fmwnl267lfr34smmfyer9dvakpnk29whq5ft8ug",
       "staking_address": "",
-      "rewards_tokens": []
+      "rewards_tokens": [
+
+      ]
     }
   ],
   "version": {

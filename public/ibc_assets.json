@@ -6,12 +6,12 @@
       "symbol": "STARS",
       "chain_id": "stargaze-1",
       "rpc": "https://rpc.stargaze-apis.com:443",
-      "denom": "IBC_HASH",
+      "denom": "ustars",
       "decimals": 6,
-      "channel": "channel-5",
-      "juno_channel": "channel-199",
-      "juno_denom": "ustars?ordenom",
+      "channel": "channel-120",
+      "juno_channel": "channel-12",
+      "juno_denom": "ibc/8968C04A87BA43FB662C51D4088D693CF44761EF8D1BD953526BDFFD48BD9005",
       "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png"
-    }
+    }    
   ]
 }

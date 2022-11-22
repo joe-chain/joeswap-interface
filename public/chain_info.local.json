@@ -25,7 +25,7 @@
       "coinDenom": "JOE",
       "coinMinimalDenom": "ujoe",
       "coinDecimals": 6,
-      "coinGeckoId": "ethereum"
+      "coinGeckoId": ""
     }
   ],
   "feeCurrencies": [
@@ -33,7 +33,7 @@
       "coinDenom": "JOE",
       "coinMinimalDenom": "ujoe",
       "coinDecimals": 6,
-      "coinGeckoId": "ethereum"
+      "coinGeckoId": ""
     }
   ],
   "coinType": 118,
